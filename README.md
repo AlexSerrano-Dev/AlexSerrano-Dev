@@ -15,12 +15,11 @@ Aplicación de escritorio para administración de pasajeros, viajes y paqueterí
 
 My Role:
 - Frontend development with React and Electron
-- Backend implementation using Node.js and Express
 - Database design with PostgreSQL
 - REST API development
 
 ## Interests
-- Backend architecture
+- Frontend and Backend architecture
 - System design
 - Business process automation
 
